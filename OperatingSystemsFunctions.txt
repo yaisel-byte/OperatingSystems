@@ -1,3 +1,6 @@
 Microsoft Windows is an operating system, that is, a set of programs that allows you to manage the resources of a computer.  
 This type of system starts working when the computer is turned on to manage the hardware from the most basic levels.
 Microsoft dominates the market for operating systems with ease, as Windows is installed on more than 90% of computers with Internet access worldwide.
+Linux es un sistema operativo semejante a Unix, de código abierto y desarrollado por una comunidad, para computadoras, servidores, mainframes, dispositivos móviles y dispositivos embebidos.
+It is compatible with almost all major computing platforms, including x86, ARM, and SPARC, making it one of the most compatible operating systems.
+The Linux operating system follows a modular design that is the key to its many variations and designs.
