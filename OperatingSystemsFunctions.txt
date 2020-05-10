@@ -1,9 +1,9 @@
 Microsoft Windows is an operating system, that is, a set of programs that allows you to manage the resources of a computer.  
 This type of system starts working when the computer is turned on to manage the hardware from the most basic levels.
 Microsoft dominates the market for operating systems with ease, as Windows is installed on more than 90% of computers with Internet access worldwide.
-Linux es un sistema operativo semejante a Unix, de código abierto y desarrollado por una comunidad, para computadoras, servidores, mainframes, dispositivos móviles y dispositivos embebidos.
+Linux is an open source Unix operating system developed by the community for computers, servers, mainframes, mobile devices and integrated devices.
 It is compatible with almost all major computing platforms, including x86, ARM, and SPARC, making it one of the most compatible operating systems.
 The Linux operating system follows a modular design that is the key to its many variations and designs.
-It is a software platform for mobile devices that includes an operating system and basic applications.
+Android is a software platform for mobile devices that includes an operating system and basic applications.
 Android is an open source platform for mobile devices based on Linux and developed by the Open Handset Alliance
 The operating system provides all the necessary interfaces to develop applications that access the phone's functions (such as GPS, calls, calendar, etc.) in a very simple way in a programming language known as Java.
