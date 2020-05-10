@@ -1,1 +1,3 @@
-
+Microsoft Windows is an operating system, that is, a set of programs that allows you to manage the resources of a computer.  
+This type of system starts working when the computer is turned on to manage the hardware from the most basic levels.
+Microsoft dominates the market for operating systems with ease, as Windows is installed on more than 90% of computers with Internet access worldwide.
